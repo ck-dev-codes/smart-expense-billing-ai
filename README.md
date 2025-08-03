@@ -38,3 +38,22 @@ A full-stack application to manage personal and client-based expenses with invoi
 
 CK — Full-stack developer | C#, Angular, MySQL  
 [LinkedIn](#) | [GitHub](https://github.com/yourusername)
+
+## Installations
+
+- ng new WebApp --routing --style=scss
+- npm install -g @angular/cli
+- ng add @angular/material
+- npm install @angular/forms
+- npm install chart.js ng2-charts
+- npm install jspdf jspdf-autotable
+- npm install axios
+- npm install openai
+
+- dotnet new webapi -n WebApi
+- dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+- dotnet add package Microsoft.EntityFrameworkCore.Tools
+- dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer
+- dotnet add package Microsoft.AspNetCore.Cors
+- dotnet add package Microsoft.AspNetCore.Mvc.NewtonsoftJson
+- dotnet add package OpenAI
